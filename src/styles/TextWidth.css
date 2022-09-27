@@ -1,0 +1,16 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 153px;
+  font-weight: 850;
+  color: #653624;
+}
+
+.l {
+  transition: 0.5s;
+  display: inline-block;
+}
+.l:hover {
+  transform: scale(1.8, 1);
+  margin: 0px 20px;
+  cursor: default;
+}

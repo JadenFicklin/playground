@@ -1,8 +1,10 @@
-import './App.css';
+import "./App.css";
+import TextWidth from "./components/TextWidth";
 
 function App() {
   return (
     <>
+      <TextWidth />
     </>
   );
 }
